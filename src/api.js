@@ -1,7 +1,7 @@
 export const geoApiOptions = {
 	method: 'GET',
 	headers: {
-		'X-RapidAPI-Key': 'ecb1c131dbmsh27f0a0b6480980cp1477fbjsn48a7d6fc2351',
+		'X-RapidAPI-Key': 'PASTE YOUR RapidAPI KEY HERE',
 		'X-RapidAPI-Host': 'wft-geo-db.p.rapidapi.com'
 	}
 };
